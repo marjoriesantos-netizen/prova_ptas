@@ -1,0 +1,13 @@
+
+{
+"name": "api-emprestimos",
+"version": "1.0.0",
+"description": "API de empréstimos da biblioteca",
+"main": "src/server.js",
+"scripts": {
+"start": "node src/server.js"
+},
+"dependencies": {
+"express": "^5.0.0"
+}
+}
